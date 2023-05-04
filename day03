@@ -1,0 +1,24 @@
+A07CharacterTest
+-문자형 char 데이터와 변수 
+-아스키코드와 유니코드 
+-char 과 int 의 캐스팅 
+
+
+A08AlphabetPrint
+- 증감(단항)연산자
+- char에 대해 증감 연산자 사용(정수 리터럴을 안쓰기때문에 캐스팅을 안해도 되었다.)
+
+A09PrefixPostfixTest
+- 증감연산자가 다른명령문과 전치 또는 후치로 사용되는 예제
+
+A10IfTest
+- if문형식( if 또는 if~else)
+- if문의 조건식은 결과값이 boolean 형식이어야 합니다. 
+
+A11KeyInputTest
+- 데이터 생성을 키보드 입력으로 해보기 
+- Scanner sc = new Scanner(system.in); 과 sc.nextInt();
+- System.in 는 표준입력 . System.out 은 표준 출력 => console 입출력
+
+A12KeyInputExam
+- 키보드 입력 연습 예제 
